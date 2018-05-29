@@ -1,2 +1,2 @@
 # hello-world
-Just starting on github and creating a repository
+Just getting starting on github and creating a repository
